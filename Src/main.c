@@ -15,6 +15,8 @@
  *
  ******************************************************************************
  */
+//Desc:just a test script, run in realTime to get outputs
+
 #include "uart.h"
 #include "led.h"
 #include <stdio.h>
