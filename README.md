@@ -1,1 +1,1 @@
-A simple lightweight RTOS kernel developed in C and ARM assembly for the STM32F401RE microcontroller. Implements preemptive round-robin scheduling with full context switching using SysTick and PendSV.
+I am learning to make my own RTOS
